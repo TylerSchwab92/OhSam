@@ -136,11 +136,11 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
-		font-family: "Roboto", Helvetica, sans-serif;
+		font-family: "fantasy", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif serif sans-serif;
 		font-weight: 400;
 		line-height: 1.65;
 		font-size: 1em;
-		color: rgb(175, 51, 13)aa;
+		color: rgb(224, 84, 28)aa;
 	}
 
 	a {
